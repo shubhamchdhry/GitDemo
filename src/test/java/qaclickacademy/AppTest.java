@@ -18,4 +18,10 @@ public class AppTest
 	{
 		System.out.println("new browser");
 	}
+	
+	public void Der()
+	{
+		System.out.println("new browser");
+	}
+	
 }
