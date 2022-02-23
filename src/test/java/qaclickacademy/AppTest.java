@@ -13,4 +13,9 @@ public class AppTest
 	{
 		System.out.println("new browser");
 	}
+	
+	public void Ger()
+	{
+		System.out.println("new browser");
+	}
 }
